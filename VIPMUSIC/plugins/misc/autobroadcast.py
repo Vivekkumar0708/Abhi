@@ -9,7 +9,7 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 AUTO_GCASTS = "{AUTO_GCAST}" if AUTO_GCAST else False
 
 
-MESSAGE = f"๏ ᴛʜɪs ɪs ˹ʏᴜᴋᴋɪ x ᴍᴜsɪᴄ˼ {my_variable} ʏᴏᴜʀ ᴍᴜsɪᴄ ᴄᴏᴍᴘᴀɴɪᴏɴ!\n\n➻ ᴅɪsᴄᴏᴠᴇʀ ᴀ ᴡᴏʀʟᴅ ᴏғ ᴇɴᴅʟᴇss ᴍᴜsɪᴄ ᴘᴏssɪʙɪʟɪᴛɪᴇs ᴡɪᴛʜ ˹Yukki ꭙ ᴍᴜsɪᴄ˼ ᴛʜᴇ ᴜʟᴛɪᴍᴀᴛᴇ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜsɪᴄ ʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴀᴡᴇsᴏᴍᴇ ғᴇᴀᴛᴜʀᴇs.\n\n• ᴘʀᴏᴍᴏᴛɪᴏɴ / ᴀᴅs ғʀᴇᴇ ʙᴏᴛ.\n• 24 ʜʀ ᴜᴘᴛɪᴍᴇ.\n• ʟᴀɢ ғʀᴇᴇ sᴍᴏᴏᴛʜ ᴍᴜsɪᴄ ᴇxᴘᴇʀɪᴇɴᴄᴇ.\n\nᴀᴅᴅ @{app.username} ɴᴏᴡ ᴀɴᴅ ʟᴇᴛ ᴛʜᴇ ᴍᴜsɪᴄ ᴛᴀᴋᴇ ᴏᴠᴇʀ ʏᴏᴜʀ ᴡᴏʀʟᴅ!"
+MESSAGE = f"๏ ᴛʜɪs ɪs ˹ʏᴜᴋᴋɪ x ᴍᴜsɪᴄ˼ ʏᴏᴜʀ ᴍᴜsɪᴄ ᴄᴏᴍᴘᴀɴɪᴏɴ!\n\n➻ ᴅɪsᴄᴏᴠᴇʀ ᴀ ᴡᴏʀʟᴅ ᴏғ ᴇɴᴅʟᴇss ᴍᴜsɪᴄ ᴘᴏssɪʙɪʟɪᴛɪᴇs ᴡɪᴛʜ ˹Yukki ꭙ ᴍᴜsɪᴄ˼ ᴛʜᴇ ᴜʟᴛɪᴍᴀᴛᴇ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜsɪᴄ ʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴀᴡᴇsᴏᴍᴇ ғᴇᴀᴛᴜʀᴇs.\n\n• ᴘʀᴏᴍᴏᴛɪᴏɴ / ᴀᴅs ғʀᴇᴇ ʙᴏᴛ.\n• 24 ʜʀ ᴜᴘᴛɪᴍᴇ.\n• ʟᴀɢ ғʀᴇᴇ sᴍᴏᴏᴛʜ ᴍᴜsɪᴄ ᴇxᴘᴇʀɪᴇɴᴄᴇ.\n\nᴀᴅᴅ @{app.username} ɴᴏᴡ ᴀɴᴅ ʟᴇᴛ ᴛʜᴇ ᴍᴜsɪᴄ ᴛᴀᴋᴇ ᴏᴠᴇʀ ʏᴏᴜʀ ᴡᴏʀʟᴅ!"
 
 BUTTON = InlineKeyboardMarkup(
     [
