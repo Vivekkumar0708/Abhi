@@ -57,6 +57,16 @@
         "value": "",
         "required": false
       },
+              "AUTO_GCAST": {
+        "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 [True] 𝐅𝐎𝐑 𝐎𝐍 𝐀𝐔𝐓𝐎 𝐆𝐂𝐀𝐒𝐓/𝐁𝐑𝐎𝐀𝐃𝐂𝐀𝐒𝐓 𝐌𝐄𝐒𝐒𝐀𝐆𝐄, (Leave Blank This Field & skip To Disbale Auto Gcast/Broadcast.)",
+        "value": "True",
+        "required": false
+      },
+      "AUTO_GCAST_MSG": {
+        "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐀𝐔𝐓𝐎 𝐁𝐑𝐎𝐀𝐃𝐂𝐀𝐒𝐓 𝐌𝐄𝐒𝐒𝐀𝐆𝐄 𝐖𝐇𝐈𝐂𝐇 𝐖𝐈𝐋𝐋 𝐁𝐄 𝐀𝐔𝐓𝐎 𝐁𝐑𝐎𝐀𝐃𝐂𝐀𝐒𝐓𝐄𝐃 𝐓𝐖𝐈𝐂𝐄 𝐈𝐍 𝐀 𝐃𝐀𝐘. ( 𝐀𝐍𝐘 𝐓𝐘𝐏𝐄 𝐎𝐅 𝐌𝐄𝐒𝐒𝐀𝐆𝐄 𝐘𝐎𝐔 𝐂𝐀𝐍 𝐂𝐎𝐏𝐘 𝐀𝐍𝐃 𝐏𝐀𝐒𝐓𝐄 𝐇𝐄𝐑𝐄 )",
+        "value": "",
+        "required": false
+      },
       "START_IMG_URL": {
         "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐘𝐎𝐔𝐑 𝐒𝐓𝐀𝐑𝐓 𝐁𝐎𝐓 𝐈𝐌𝐀𝐆𝐄 𝐔𝐑𝐋, 𝐆𝐄𝐓 𝐈𝐓 𝐅𝐑𝐎𝐌 ;- t.me/vTelegraphBot",
         "value": "https://telegra.ph/file/d9880810cc716e5b80ba5.jpg",
